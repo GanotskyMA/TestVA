@@ -21,7 +21,7 @@
 	И я перезаполняю константу "UseCompanies" значением "True"
 
 	И я перезаполняю константу "NotFirstStart" значением "False"
-
+	
 
 	И я проверяю или создаю для справочника "Currencies" объекты:
 		| 'Ref'                                                                | 'DeletionMark' | 'Code' | 'Symbol' | 'NumericCode' | 'Description_en' | 'Description_hash' | 'Description_ru' | 'Description_tr' |
